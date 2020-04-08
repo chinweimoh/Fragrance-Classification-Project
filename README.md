@@ -1,3 +1,8 @@
+Authors: Chan Tiong Ley, Lucas Le, Moh Chin Wei
+
+Colab Link: https://colab.research.google.com/drive/1wNmc8Dsxv-n9Xq0LjENgY46FFZZqbiNe
+
+
 # Introduction
 
 The purpose of the project is to accurately classify the fragrances 1, 2, 3 & 4 based on the data logged on 12 different human subjects on the brainwave activities in the alpha, delta and theta wave spectrum. 20 channels of 5 explanatory variables - alpha wave, delta wave, theta wave, sample entropy and Higuchi Fractal Dimension - are given for every row. The approach for the project shown in the notebook is to visualise the data, clean the data and, finally, model the data to determine highest accuracy score.
