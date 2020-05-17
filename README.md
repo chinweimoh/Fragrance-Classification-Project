@@ -31,8 +31,8 @@ to classify the fragrances. An accuracy score is then calculated based on whethe
 
 # Cross Validation
 
-The accuracy of the result is further complimented using cross validation. An average accuracy score is calculated using StratifiedKFold cross validation technique that randomly splits training and test data to 5-fold splits. Multinomial Logistic Regression performed the best with an average of **89.5%**. Therefore, this method is used in conjunction with the data cleaning techniques for this project.
+The accuracy of the result is further complimented using cross validation. An average accuracy score is calculated using StratifiedKFold cross validation technique that randomly splits training and test data to 5-fold splits. Multinomial Logistic Regression performed the best with an average of **87.5%**. Therefore, this method is used in conjunction with the data cleaning techniques for this project.
 
 # Conclusion
 
-**Removing the rows that contain outliers beyond 3 standard deviations, reduce the dimensions using linear discriminant analysis and modelling with logistic regression produced the highest average accuracy score of 89.5%.**
+**Removing the rows that contain outliers beyond 3 standard deviations, reduce the dimensions using linear discriminant analysis and modelling with logistic regression produced the highest average accuracy score of 87.5%.**
